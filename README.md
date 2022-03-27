@@ -12,11 +12,11 @@ html调用
 	<input type="text" name="icon" class="hide"/>
 </div>
 <!-- 
-data-search：搜索框开启
-data-page：开启分页模式
+data-search:搜索框开启
+data-page:开启分页模式
 
 true:开启
-false：关闭
+false:关闭
 
 图标数据在json文件夹IconData.json中,默认使用的是本地数据，如果想使用在线链接，可在fate-icon-pulings.js中找到json/IconData.json进行更换
  -->
