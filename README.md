@@ -22,7 +22,12 @@ false:关闭
  -->
 
 ```
-
+### 预览图
+![预览图1](preview-img/1.png)
+![预览图2](preview-img/2.png)
+![预览图3](preview-img/3.png)
+![预览图4](preview-img/4.png)
+![预览图5](preview-img/5.png)
 #### 
 觉得有用给个赞把！
 
